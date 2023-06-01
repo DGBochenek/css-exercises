@@ -1,0 +1,20 @@
+p {
+background-color: lightcoral;
+font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
+
+.numb2 {
+color: blue;
+font-size: 36px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.numb3 {
+font-size: 24px;
+}
+
+.numb4 {
+background-color: lightgreen;
+font-weight: bold;
+font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
